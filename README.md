@@ -29,11 +29,9 @@ Some assumptions had to be made in order to carry out the task effectively.
 My Assumptions:
 1.  Total discount is a combination of discount on product and discount offered to USER.
 2.  Depending on the their type (AFFILIATE, EMPLOYEE, OLD/NEW CUSTOMER), the user gets (10, 30, 5) percent discount.
-3.  Depending on the product purchased the user gets either 5% discount if the product is non-grocery product or
-    no discount on the product.
+3.  Depending on the product purchased the user gets either 5% discount if the product is non-grocery product or no discount on the product.
 4.  A generic formula for computation of product price can be given as:
-    DISCOUNTED_TOTAL_BILL =
-    QUANTITY * (  (1-USER_DISCOUNT)*( (1-PRODUCT_DISCOUNT)*(SUM of per unit non-grocery product prices)
+    DISCOUNTED_TOTAL_BILL = QUANTITY * (  (1-USER_DISCOUNT)*( (1-PRODUCT_DISCOUNT)*(SUM of per unit non-grocery product prices)
     + (SUM of per unit grocery product prices) )  )
 
 
