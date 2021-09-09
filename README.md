@@ -67,6 +67,11 @@ CASE 4 >> CUSTOMER (0.95) (Since less than two years)
 2*( 0.95*(1.99+14.99+4.99+19.99) + 0.99 ) = 81.704
 discount = 4.196
 
+###### SONAR DASHBOARD REPORT ######
+Click on the image/link below to see the Sonar Dashboard report
+
+![Image of UML-Class-Diagram](https://github.com/senatlamike/technology_assessment/blob/main/reports/sonar_dashboard.png)
+
 
 ###### FINDING THE TEST CASES ######
 The test cases can be found in ShoppingApplicationTest class.
