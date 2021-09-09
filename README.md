@@ -38,7 +38,7 @@ My Assumptions:
 ###### UML - CLASS DIAGRAM  ######
 Please click on the below link to see the UML - Class diagram for the implemented solution:
 
-https://github.com/senatlamike/technology_assessment/tree/main/uml_diagram/class_diagram_uml.png
+![Image of Yaktocat](https://github.com/senatlamike/technology_assessment/tree/main/uml_diagram/class_diagram_uml.png)
 
 ###### TEST CASES ######
 We assume the shopper purchases 2 item with unit prices as below:
