@@ -35,6 +35,9 @@ My Assumptions:
     + (SUM of per unit grocery product prices) )  )
 
 
+###### UML - CLASS DIAGRAM  ######
+
+
 ###### TEST CASES ######
 We assume the shopper purchases 2 item with unit prices as below:
 
