@@ -1,4 +1,4 @@
->>>>> TECHNOLOGY ASSESSMENT <<<<<<
+###### TECHNOLOGY ASSESSMENT ######
 
 >>>>> Assessment Brief Overview <<<<<<
 On a retail website, the following discounts apply:
