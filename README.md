@@ -1,6 +1,6 @@
 ###### TECHNOLOGY ASSESSMENT ######
 
->>>>> Assessment Brief Overview <<<<<<
+###### Assessment Brief Overview ######
 On a retail website, the following discounts apply:
 1. If the user is an employee of the store, he gets a 30% discount
 2. If the user is an affiliate of the store, he gets a 10% discount
@@ -23,7 +23,7 @@ Required Activities
 • Leverage today's best coding practices
 • Clear README.md that explains how the code and the test can be run and how the coverage reports can be generated
 
->>>>> SOLUTION <<<<<<
+###### SOLUTION ######
 Some assumptions had to be made in order to carry out the task effectively.
 
 My Assumptions:
@@ -35,7 +35,7 @@ My Assumptions:
     + (SUM of per unit grocery product prices) )  )
 
 
->>>>> TEST CASES <<<<<<
+###### TEST CASES ######
 We assume the shopper purchases 2 item with unit prices as below:
 
 19.99
@@ -63,11 +63,11 @@ CASE 4 >> CUSTOMER (0.95) (Since less than two years)
 discount = 4.196
 
 
->>>>> FINDING THE TEST CASES <<<<<<
+###### FINDING THE TEST CASES ######
 The test cases can be found in ShoppingApplicationTest class.
 
 
->>>>> RUNNING THE TEST CASES <<<<<<
+###### RUNNING THE TEST CASES ######
 
 The test case can be run using CMD also known as the Command Line Prompt by typing and running the below line:
 
