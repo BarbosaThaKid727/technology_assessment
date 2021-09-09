@@ -37,7 +37,7 @@ My Assumptions:
 
 ###### UML - CLASS DIAGRAM  ######
 
-https://github.com/senatlamike/technology_assessment/tree/main/uml_diagram/class_diagram.png
+uml_diagram/class_diagram_uml.png
 
 ###### TEST CASES ######
 We assume the shopper purchases 2 item with unit prices as below:
